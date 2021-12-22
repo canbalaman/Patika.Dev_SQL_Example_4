@@ -8,4 +8,6 @@
 4. country tablosunda bulunan ülke isimlerinden (country) kaç tanesi 5 karakterden oluşmaktadır?
 5. city tablosundaki şehir isimlerinin kaç tanesi 'R' veya r karakteri ile biter?
 
+[Database](https://www.postgresqltutorial.com/postgresql-sample-database/)
+
 <p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
